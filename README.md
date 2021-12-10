@@ -20,5 +20,8 @@ I am Marat Khisamutdinov, currently pursuing my bachelor's degree in NRNU MEPhI.
 [![Telegram Badge](https://img.shields.io/badge/-marat_aidarovich-black?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/marat_aidarovich)](https://t.me/marat_aidarovich)
 [![Gmail Badge](https://img.shields.io/badge/-maratcoop11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maratcoop11@gmail.com)](mailto:kanna6501@gmail.com)
 
-- 🌱 I’m currently learning `Django`, `Backend`
+- 🌱 I’m currently learning `Django`, `Back-end`
 - ⚡ Already well-learned languages: `Python`, `C`, `Assembly`, `C++`
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marat1804.marat1804)
