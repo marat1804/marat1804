@@ -24,4 +24,4 @@ I am Marat Khisamutdinov, currently pursuing my bachelor's degree in NRNU MEPhI.
 - ⚡ Already well-learned languages: `Python`, `C`, `Assembly`, `C++`
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marat1804.marat1804)
+![Visitor Count](https://profile-counter.glitch.me/marat1804/count.svg)
