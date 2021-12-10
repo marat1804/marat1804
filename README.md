@@ -24,4 +24,10 @@ I am Marat Khisamutdinov, currently pursuing my bachelor's degree in NRNU MEPhI.
 - ⚡ Already well-learned languages: `Python`, `C`, `Assembly`, `C++`
 
 
+<a href="https://github.com/marat1804">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=marat1804&show_icons=true&theme=dark&line_height=27" alt="marat1804's github stats"/>
+</a>
+
+<br/>
+
 ![Visitor Count](https://profile-counter.glitch.me/marat1804/count.svg)
