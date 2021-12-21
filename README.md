@@ -22,6 +22,7 @@ I am Marat Khisamutdinov, currently pursuing my bachelor's degree in NRNU MEPhI.
 
 - 🌱 I’m currently learning `Django`, `Back-end`
 - ⚡ Already well-learned languages: `Python`, `C`, `Assembly`, `C++`
+- 😎 [Here's my resume](https://docs.google.com/document/d/1WxU93h0Ubsjtx4f5TAYHdiL9X6CpMcR2Wqv6ADTHeFI/edit?usp=sharing)
 
 
 <a href="https://github.com/marat1804">
