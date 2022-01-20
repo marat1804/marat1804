@@ -30,5 +30,3 @@ I am Marat Khisamutdinov, currently pursuing my bachelor's degree in NRNU MEPhI.
 </a>
 
 <br/>
-
-![Visitor Count](https://profile-counter.glitch.me/marat1804/count.svg)
