@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Marat Khisamutdinov, currently pursuing my bachelor's degree in NRNU MEPhI. Find out more about me & feel free to connect with me here:
+I am Marat Khisamutdinov, currently pursuing my master's degree in NRNU MEPhI and studying as Machine Learning Engineer at VK MADE Big Data Academy. Find out more about me & feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-marat.aidarovich-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/marat.aidarovich/)](https://www.instagram.com/marat.aidarovich/)
 [![Telegram Badge](https://img.shields.io/badge/-marat_aidarovich-black?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/marat_aidarovich)](https://t.me/marat_aidarovich)
